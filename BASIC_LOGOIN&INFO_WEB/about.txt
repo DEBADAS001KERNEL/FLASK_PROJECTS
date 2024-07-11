@@ -13,11 +13,4 @@ Technologies Used:
 - HTML
 - CSS
 
-Developer:
-[Your Name]
 
-Date Created:
-[Date]
-
-GitHub Repository:
-[Link to your project's GitHub repository, if applicable]
