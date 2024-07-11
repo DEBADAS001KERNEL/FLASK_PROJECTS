@@ -1,0 +1,23 @@
+Project: Flask Login System
+
+Description:
+This project demonstrates a basic login system using Flask, HTML, CSS, and a hardcoded user database. It showcases how to handle user authentication and session management in a web application.
+
+Features:
+- User login functionality with username and password validation.
+- Redirects to an information page after successful login, displaying user details.
+- Basic styling using CSS for a clean user interface.
+
+Technologies Used:
+- Python (Flask framework)
+- HTML
+- CSS
+
+Developer:
+[Your Name]
+
+Date Created:
+[Date]
+
+GitHub Repository:
+[Link to your project's GitHub repository, if applicable]
